@@ -60,3 +60,8 @@ $ heroku open
 If you see errors, open the Heroku log to view all errors and output:
 $ heroku logs
 
+
+############################################################################################
+
+Added REST api to get individual tasks
+/api/v1/tasks/<int>

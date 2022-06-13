@@ -2,7 +2,7 @@
 
 # imports ################################################################
 
-from sqlite3 import IntegrityError
+#from sqlite3 import IntegrityError
 from .forms import RegisterForm, LoginForm
 from functools import wraps
 from datetime import datetime
